@@ -2,4 +2,4 @@
 DataVizForAll.org story template using modified Bootstrap
 
 ## live view (change to your GitHub Pages link)
-https://stevenramsden.github.io/Final-/
+https://stevenramsden.github.io/data-story-hartfordllcs/
